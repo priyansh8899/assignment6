@@ -20,11 +20,11 @@ int main()
     }
     if (Palindrome) 
     {
-        printf("\n%s The Given string is Palindrome\n\n", str);
+        printf("The given string is a Palindrome.\n");
     } 
     else 
     {
-        printf("\n%s is not a Palindrome\n\n", str);
+        printf("The given string is NOT a Palindrome.\n");
     }
     return 0;
 }
